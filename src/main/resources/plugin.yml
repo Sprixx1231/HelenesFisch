@@ -1,0 +1,9 @@
+name: HelenesFisch
+version: '${project.version}'
+main: com.spreadmouse.helenesfisch.HelenesFisch
+api-version: 1.19
+description: oh mein gott so stronk
+commands:
+  helenesfisch:
+    description: Gives Player the holy fish
+    usage: /<command>
